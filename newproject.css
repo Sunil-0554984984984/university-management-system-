@@ -82,7 +82,7 @@ p{
 
 .content-table th,
 .content-table td {
-    padding: 10px 100px;
+    padding: 10px 110px;
 }
 
 .content-table tbody tr {
@@ -106,6 +106,6 @@ th,
 td {
     border: 1px solid black;
     padding: 5px 1px;
-    margin-top: 5px;
+    margin-top: 6px;
     
 }
